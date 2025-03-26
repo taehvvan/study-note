@@ -1,1 +1,1 @@
-# study-note
+# 학습 노트 (Study Note)
