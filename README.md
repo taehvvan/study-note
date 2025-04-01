@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="./images/README/note.png" alt="Note 이미지" width="150px" />
+  <img src="./images/note.png" alt="Note 이미지" width="150px" />
   <br />
   <h1>학습 노트 (Study Note)</h1>
   <br />
