@@ -15,6 +15,6 @@
 
 ## Java
 
-- [01. ](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/web/WEB-HTTP%26HTTPS.md)
+- [01. 자료형.md](https://github.com/JeongHwan-dev/Today-I-Learned/blob/master/web/WEB-HTTP%26HTTPS.md)
 
 <br />
