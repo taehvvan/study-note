@@ -9,6 +9,7 @@
 ## 목차
 
 1. [**Java**](#Java)
+2. [**Python**](#Python)
 
 
 <br />
@@ -23,3 +24,5 @@
 - [06. 배열](https://github.com/taehvvan/study-note/blob/main/Java/06.%20%EB%B0%B0%EC%97%B4.md)
 
 <br />
+
+## Python
