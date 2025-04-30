@@ -1,0 +1,49 @@
+@charset 'utf-8';
+.loginArea{width:100%;height:100vh;background:linear-gradient(to bottom, #267cb7, #012a56)}
+.loginBox{position:absolute;left:calc(50% - 200px);left:-webkit-calc(50% - 200px);left:-moz-calc(50% - 200px);top:calc(50% - 155px);top:-webkit-calc(50% - 155px);top:-moz-calc(50% - 155px);width:400px;height:310px;background:#fff;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;box-shadow:1px 1px 4px #444;-webkit-box-shadow:1px 1px 4px #444;-moz-box-shadow:1px 1px 4px #444}
+.loginBox h1{position:absolute;left:0;top:30px;width:100%;height:50px;line-height:50px;font-size:24px;font-weight:normal;color:#000;text-align:center}
+.loginBox .loginIdInput{position:absolute;top:100px;left:40px;width:calc(100% - 80px);width:-webkit-calc(100% - 80px);width:-moz-calc(100% - 80px);height:40px;background:#fff;font-size:14px;color:#000;padding:0 10px 0 10px;border:1px solid #ccc;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px}
+.loginBox .loginIdInput:focus{border-color:#1d8de4}
+.loginBox .loginPasswordInput{position:absolute;top:160px;left:40px;width:calc(100% - 80px);width:-webkit-calc(100% - 80px);width:-moz-calc(100% - 80px);height:40px;background:#fff;font-size:14px;color:#000;padding:0 10px 0 10px;border:1px solid #ccc;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px}
+.loginBox .loginPasswordInput:focus{border-color:#1d8de4}
+.loginBox .loginButton{position:absolute;top:230px;left:40px;width:calc(100% - 80px);width:-webkit-calc(100% - 80px);width:-moz-calc(100% - 80px);height:40px;color:#fff;font-size:16px;font-weight:bold;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px}
+.loginBox h6{position:absolute;right:40px;top:280px;width:100px;height:40px;line-height:40px;color:#000;font-size:12px;font-weight:normal;text-decoration:underline;cursor:pointer;text-align:right}
+.loginBox h6:hover{opacity:0.8}
+.loginBox h6:active{opacity:0.6}
+.joinText{position:absolute;left:calc(50% - 200px);left:-webkit-calc(50% - 200px);left:-moz-calc(50% - 200px);top:calc(50% + 160px);top:-webkit-calc(50% + 160px);top:-moz-calc(50% + 160px);width:400px;height:50px;line-height:50px;text-align:right;color:#fff;cursor:pointer}
+.joinText:hover{opacity:0.8}
+.joinText:active{opacity:0.6}
+
+.loginBackground{position:absolute;left:0;top:0;width:100%;height:100%;object-fit:cover}
+.moveButton{position:absolute;left:calc(50% - 200px);left:-webkit-calc(50% - 200px);left:-moz-calc(50% - 200px);top:calc(50% + 220px);top:-webkit-calc(50% + 220px);top:-moz-calc(50% + 220px);width:400px;height:40px;text-align:right;color:#fff;cursor:pointer}
+.moveButton:hover{color:#aaa}
+.moveButton:active{color:#888}
+
+.joinPopup{left:calc(50% - 200px);left:-webkit-calc(50% - 200px);left:-moz-calc(50% - 200px);width:400px;height:400px;top:calc(50% - 200px);top:-webkit-calc(50% - 200px);top:-moz-calc(50% - 200px);font-size:14px}
+.joinPopup .joinInput{position:absolute;left:20px;width:calc(100% - 40px);width:-webkit-calc(100% - 40px);width:-moz-calc(100% - 40px);height:42px;border:1px solid #ccc;font-size:14px;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px}
+.joinPopup .join_userIdInput{top:100px}
+.joinPopup .join_passwordInput{top:154px}
+.joinPopup .join_retryPasswordInput{top:208px}
+.joinPopup .join_nameInput{top:262px}
+.joinPopup .joinInput:focus{border-color:#1d8de4}
+.joinPopup .popupButtonArea{position:absolute;left:0;bottom:20px;width:100%;height:40px}
+.joinPopup .popupButton{position:absolute;top:0;width:170px;height:40px;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px}
+.joinPopup .popupConfirmButton{left:calc(50% + 10px);left:-webkit-calc(50% + 10px);left:-moz-calc(50% + 10px)}
+.joinPopup .popupCancelButton{left:calc(50% - 180px);left:-webkit-calc(50% - 180px);left:-moz-calc(50% - 180px)}
+
+
+.joinPopup h1{position:absolute;left:0;top:30px;width:100%;height:50px;line-height:50px;font-size:24px;font-weight:normal;color:#000;text-align:center}
+
+
+@media(max-width:420px){
+.loginBox{width:calc(100% - 20px);width:-webkit-calc(100% - 20px);width:-moz-calc(100% - 20px);left:10px}
+.loginBox .loginIdInput{left:20px;width:calc(100% - 40px);width:-webkit-calc(100% - 40px);width:-moz-calc(100% - 40px)}
+.loginBox .loginPasswordInput{left:20px;width:calc(100% - 40px);width:-webkit-calc(100% - 40px);width:-moz-calc(100% - 40px)}
+.loginBox .loginButton{left:20px;width:calc(100% - 40px);width:-webkit-calc(100% - 40px);width:-moz-calc(100% - 40px)}
+
+.joinText{width:100%;left:0;padding-right:10px}
+.joinPopup{width:calc(100% - 20px);width:-webkit-calc(100% - 20px);width:-moz-calc(100% - 20px);left:10px}
+.joinPopup .popupButton{width:calc(50% - 25px);width:-webkit-calc(50% - 25px);width:-moz-calc(50% - 25px)}
+.joinPopup .popupConfirmButton{left:calc(50% + 10px);left:-webkit-calc(50% + 5px);left:-moz-calc(50% + 5px)}
+.joinPopup .popupCancelButton{left:20px}
+}
