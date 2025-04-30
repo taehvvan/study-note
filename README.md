@@ -8,8 +8,9 @@
 
 ## 목차
 
-1. [**Java**](#Java)
-2. [**Python**](#Python)
+1. [**HTML**](#HTML)
+2. [**Java**](#Java)
+3. [**Python**](#Python)
 
 
 <br />
