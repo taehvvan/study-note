@@ -1,6 +1,6 @@
 # HTML - basics
 
- ### formatting.html : 텍스트 포맷
+- [01. 텍스트 포맷팅](https://github.com/taehvvan/study-note/tree/main/HTML/01)
  `<b>` : <b>제목 등을 강조할 때 사용</b> <br/>
  `<strong>` : 문장 내의 <strong>특정 부분</strong>을 강조할 때 사용 <br/>
  `<i>` : <i>이탤릭체로 바꿀 때 사용</i> <br/>
