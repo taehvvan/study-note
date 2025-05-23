@@ -1,3 +1,3 @@
 ### java-projects
-1. Chat-program
-2. Book-manager
+1. chat-program
+2. book-manager
