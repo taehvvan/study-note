@@ -1,4 +1,4 @@
-## score-manager   학생 성적 관리 시스템
+## 학생 성적 관리 시스템
 
 `Student.java` : 학생 정보 관리
 
