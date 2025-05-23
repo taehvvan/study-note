@@ -1,4 +1,4 @@
-## atm-example   ATM 시뮬레이터 프로그램
+## ATM 시뮬레이터 프로그램
 
 `Account.java` : 계좌 관리
 
