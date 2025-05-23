@@ -1,5 +1,3 @@
-### java_examples
-- 다양한 예제 코드
-
-### java_projects
-- 진행했던 프로젝트들
+### java-projects
+1. Chat-program
+2. Book-manager
