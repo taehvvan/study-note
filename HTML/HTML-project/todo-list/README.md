@@ -1,6 +1,6 @@
 # 📝 To-Do List Web App
 
-HTML, CSS, JavaScript로 만든 간단하고 직관적인 To-Do List 웹 애플리케이션입니다.  
+HTML, CSS, JavaScript로 만든 To-Do List 웹 애플리케이션입니다.  
 할 일 등록, 마감일 설정, 완료/삭제, 필터 기능 및 로컬스토리지 저장 기능이 포함되어 있습니다.
 
 ---
