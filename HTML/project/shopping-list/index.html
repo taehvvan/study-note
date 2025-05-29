@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>상품 리스트</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🛒 쇼핑몰 상품 리스트</h1>
+
+    <div class="controls">
+      <input type="text" id="searchInput" placeholder="상품 검색" />
+      <select id="categoryFilter">
+        <option value="all">전체</option>
+        <option value="electronics">전자제품</option>
+        <option value="clothing">의류</option>
+      </select>
+      <select id="sortPrice">
+        <option value="default">정렬 없음</option>
+        <option value="low">가격 낮은 순</option>
+        <option value="high">가격 높은 순</option>
+      </select>
+    </div>
+
+    <div id="productList" class="product-list"></div>
+
+    <h2>🧺 장바구니</h2>
+    <ul id="cartList" class="cart-list"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
