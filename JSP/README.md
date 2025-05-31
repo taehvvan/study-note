@@ -24,9 +24,9 @@ JSP(JavaServer Pages)를 학습하며 정리한 노트입니다. 기본 문법�
 
 ## JSP 기본 문법
 
-- Scriptlet: `<% ... %>`
-- Expression: `<%= ... %>`
-- Declaration: `<%! ... %>`
+- Scriptlet(스크립트릿) : `<% ... %>`
+- Expression(표현식) : `<%= ... %>`
+- Declaration(선언) : `<%! ... %>`
 
 [예제 보기](./01_basic-syntax)
 
@@ -79,10 +79,6 @@ JSP(JavaServer Pages)를 학습하며 정리한 노트입니다. 기본 문법�
 
 ## 참고 자료
 
-- [Oracle JSP 공식 문서](https://docs.oracle.com/javaee/7/tutorial/servlets.htm)
-- [생활코딩 - JSP](https://opentutorials.org/course/1688)
 - [W3Schools - JSP](https://www.w3schools.com/jsp/)
 
----
 
-> 👨‍💻 이 노트는 개인 학습용이며, 오픈소스로 누구든지 참고하실 수 있습니다.
