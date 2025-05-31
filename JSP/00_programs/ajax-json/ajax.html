@@ -1,1 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AJAX 시간 요청</title>
+    <script>
+        function fetchTime() {
+            fetch('getTime.jsp')
+                .then(res => res.json())
+                .then(data => {
+                    document.getElementById("result").innerText = data.time;
+                });
+        }
+    </script>
+</head>
+<body>
+    <button onclick="fetchTime()">현재 시간 보기</button>
+    <div id="result"></div>
+</body>
+</html>
 
