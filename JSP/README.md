@@ -75,10 +75,4 @@ JSP(JavaServer Pages)를 학습하며 정리한 노트입니다. 기본 문법�
 
 [예제 보기](./06_mvc)
 
----
-
-## 참고 자료
-
-- [W3Schools - JSP](https://www.w3schools.com/jsp/)
-
 
