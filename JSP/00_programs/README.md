@@ -4,7 +4,7 @@ JSP 기반의 예제를 모아놓은 학습용 자료입니다.
 
 ---
 
-## 📁 07_user-list/ - 회원 목록 조회 (MVC + DB 연동)
+## 📁 user-list - 회원 목록 조회 (MVC + DB 연동)
 
 **설명:**  
 MySQL 데이터베이스에 저장된 사용자 정보를 조회하여 JSP에서 출력하는 MVC 패턴 예제입니다.
@@ -17,7 +17,7 @@ MySQL 데이터베이스에 저장된 사용자 정보를 조회하여 JSP에서
 
 ---
 
-## 📁 08_ajax-json/ - AJAX 요청 + JSON 응답
+## 📁 ajax-json - AJAX 요청 + JSON 응답
 
 **설명:**  
 JSP에서 JSON 데이터를 반환하고, JavaScript Fetch API를 사용하여 비동기적으로 데이터를 받아오는 예제입니다.
@@ -28,7 +28,7 @@ JSP에서 JSON 데이터를 반환하고, JavaScript Fetch API를 사용하여 �
 
 ---
 
-## 📁 09_file-upload/ - 파일 업로드 처리
+## 📁 file-upload - 파일 업로드 처리
 
 **설명:**  
 사용자가 업로드한 파일을 서버에 저장하는 기능을 구현한 예제입니다. `Apache Commons FileUpload` 라이브러리를 사용합니다.
@@ -39,7 +39,7 @@ JSP에서 JSON 데이터를 반환하고, JavaScript Fetch API를 사용하여 �
 
 ---
 
-## 📁 10_session-login/ - 로그인 세션 관리
+## 📁 session-login - 로그인 세션 관리
 
 **설명:**  
 세션을 이용하여 로그인 상태를 유지하고, 로그아웃 시 세션을 종료하는 기본적인 로그인 처리 예제입니다.
