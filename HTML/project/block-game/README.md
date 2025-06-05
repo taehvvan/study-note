@@ -4,6 +4,8 @@ HTML, CSS, JavaScript로 만든 블록 타이밍 쌓기 게임입니다.
 
 ---
 
+![게임 예시 화면](https://github.com/taehvvan/study-note/blob/main/HTML/project/block-game/sample.PNG)
+
 ## 💡 주요 기능
 
 - 움직이는 블록 좌우 자동 이동
