@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>일정 관리 캘린더</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>📅 나의 일정 관리</h1>
+    <div class="calendar-header">
+      <button id="prev">&lt;</button>
+      <h2 id="month-year"></h2>
+      <button id="next">&gt;</button>
+    </div>
+    <div class="calendar" id="calendar"></div>
+  </div>
+
+  <!-- 일정 입력 모달 -->
+  <div class="modal" id="eventModal">
+    <div class="modal-content">
+      <h3 id="selected-date"></h3>
+      <textarea id="eventText" placeholder="일정을 입력하세요..."></textarea>
+      <button id="saveEvent">저장</button>
+      <button id="closeModal">닫기</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
