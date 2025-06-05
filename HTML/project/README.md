@@ -2,7 +2,7 @@
 
 ---
 
-### 1. `block-game` : 블록 쌓기 게임 ![게임 예시 화면](https://github.com/yourusername/project-name/blob/main/images/example.png)
+### 1. `block-game` : 블록 쌓기 게임 ![게임 예시 화면](https://github.com/taehvvan/study-note/blob/main/HTML/project/block-game/sample.PNG)
 ### 2. `calendar-app` : 캘린더 일정 관리
 ### 3. `memory-game` : 이모지 기억 게임
 ### 4. `shopping-list` : 쇼핑몰 관리
