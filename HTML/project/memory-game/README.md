@@ -2,6 +2,8 @@
 
 HTML, CSS, JavaScript로 만든 이모지 기억력 테스트 게임입니다.
 
+![게임 예시 화면](https://github.com/taehvvan/study-note/blob/main/HTML/project/memory-game/sample.PNG)
+
 ---
 
 ## 💡 주요 기능
