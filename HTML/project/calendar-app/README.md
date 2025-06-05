@@ -2,6 +2,8 @@
 
 HTML, CSS, JavaScript로 만든 동적 캘린더 프로젝트입니다.
 
+![게임 예시 화면](https://github.com/taehvvan/study-note/blob/main/HTML/project/calendar-app/sample.PNG)
+
 ---
 
 ## 💡 주요 기능
