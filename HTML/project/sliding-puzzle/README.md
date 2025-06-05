@@ -2,6 +2,8 @@
 
 HTML, CSS, JavaScript로 만든 4x4 숫자 슬라이딩 퍼즐 게임입니다.
 
+![게임 예시 화면](https://github.com/taehvvan/study-note/blob/main/HTML/project/sliding-puzzle/sample.PNG)
+
 ---
 
 ## 💡 주요 기능
