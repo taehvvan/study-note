@@ -6,7 +6,7 @@ HTML, CSS, JavaScript로 만든 웹 기반 타자 게임입니다.
 
 ---
 
-![게임 예시 화면](https://github.com/taehvvan/study-note/blob/main/HTML/project/typing-game/sample.PNG)
+![게임 예시 화면](https://github.com/taehvvan/study-note/blob/main/HTML/project/typing-game/sample.jpg)
 
 ---
 
