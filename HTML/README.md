@@ -11,4 +11,4 @@
 ## 🧱 학습 내용 구성
 
 - /basics : 기본 개념
-- /programs : 실습 예제
+- /project : 실습 예제
