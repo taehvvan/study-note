@@ -6,7 +6,7 @@ HTML, CSS, JavaScript로 만든 상품 목록 UI 및 장바구니 기능을 가�
 
 ![예시 화면](https://github.com/taehvvan/study-note/blob/main/HTML/project/shopping-list/sample.jpg)
 
---
+---
 
 ## 💡 주요 기능
 
