@@ -6,6 +6,10 @@ HTML, CSS, JavaScript로 만든 웹 기반 타자 게임입니다.
 
 ---
 
+![게임 예시 화면](https://github.com/taehvvan/study-note/blob/main/HTML/project/typing-game/sample.PNG)
+
+---
+
 ## 🎮 주요 기능
 
 - 화면에 랜덤 문장이 표시되고, 사용자가 해당 문장을 입력
