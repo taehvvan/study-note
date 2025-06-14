@@ -5,6 +5,10 @@ HTML, CSS, JavaScript로 만든 To-Do List 웹 애플리케이션입니다.
 
 ---
 
+![예시 화면](https://github.com/taehvvan/study-note/blob/main/HTML/project/todo-list/sample.jpg)
+
+---
+
 ## 🌟 주요 기능
 
 - 할 일 추가 및 삭제
