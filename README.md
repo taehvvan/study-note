@@ -9,6 +9,6 @@
 ## 목차
 
 1. [HTML](./HTML)
-2. [**JSP**](#JSP)[https://github.com/taehvvan/study-note/tree/main/JSP]
-3. [**Java**](#Java)[https://github.com/taehvvan/study-note/tree/main/Java]
-4. [**Python**](#Python)[https://github.com/taehvvan/study-note/tree/main/Python]
+2. [JSP](./JSP)
+3. [Java](./Java)
+4. [Python](./Python)
